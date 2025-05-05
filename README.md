@@ -1,2 +1,2 @@
-# Tris_non_completato
+# Tris
 Tris da finire, ma una buona pratica con Java
